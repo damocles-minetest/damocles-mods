@@ -1,0 +1,60 @@
+[submodule "WorldEdit"]
+	path = WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "framedglass"]
+	path = framedglass
+	url = https://github.com/minetest-mods/framedglass.git
+[submodule "hidden_doors"]
+	path = hidden_doors
+	url = git@github.com:pandorabox-io/hidden_doors.git
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters.git
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools.git
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/thomasrudin-mt/monitoring.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "scifi_nodes"]
+	path = scifi_nodes
+	url = https://github.com/D00Med/scifi_nodes.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/thomasrudin-mt/shell.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/Sokomine/travelnet.git
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://github.com/minetest-mods/stained_glass.git
+[submodule "soundblock"]
+	path = soundblock
+	url = https://github.com/thomasrudin-mt/soundblock.git
+[submodule "soundblock_scifi"]
+	path = soundblock_scifi
+	url = https://github.com/thomasrudin-mt/soundblock_scifi.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://gitlab.com/VanessaE/unifieddyes.git
