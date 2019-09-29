@@ -76,3 +76,9 @@
 [submodule "vines"]
 	path = vines
 	url = https://notabug.org/TenPlus1/vines.git
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/minetest-mods/item_drop.git
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/runsy/cool_trees.git
