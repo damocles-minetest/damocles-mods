@@ -67,3 +67,12 @@
 [submodule "bakedclay"]
 	path = bakedclay
 	url = https://notabug.org/TenPlus1/bakedclay.git
+[submodule "farming"]
+	path = farming
+	url = https://notabug.org/TenPlus1/farming.git
+[submodule "wine"]
+	path = wine
+	url = https://notabug.org/TenPlus1/wine.git
+[submodule "vines"]
+	path = vines
+	url = https://notabug.org/TenPlus1/vines.git
