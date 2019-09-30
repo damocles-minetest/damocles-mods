@@ -73,12 +73,39 @@
 [submodule "wine"]
 	path = wine
 	url = https://notabug.org/TenPlus1/wine.git
-[submodule "vines"]
-	path = vines
-	url = https://notabug.org/TenPlus1/vines.git
 [submodule "item_drop"]
 	path = item_drop
 	url = https://github.com/minetest-mods/item_drop.git
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/runsy/cool_trees.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal.git
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo.git
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc.git
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster.git
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse.git
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://notabug.org/TenPlus1/mobs_water.git
+[submodule "mobs_sky"]
+	path = mobs_sky
+	url = https://notabug.org/TenPlus1/mobs_sky.git
+[submodule "epic"]
+	path = epic
+	url = https://github.com/thomasrudin-mt/epic.git
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
