@@ -112,3 +112,6 @@
 [submodule "dmobs"]
 	path = dmobs
 	url = https://github.com/D00Med/dmobs.git
+[submodule "jumping"]
+	path = jumping
+	url = https://github.com/minetest-mods/jumping.git
