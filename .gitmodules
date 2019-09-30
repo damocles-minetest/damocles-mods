@@ -148,3 +148,6 @@
 [submodule "font_oldwizard"]
 	path = font_oldwizard
 	url = https://github.com/pyrollo/font_oldwizard.git
+[submodule "factory_bridges"]
+	path = factory_bridges
+	url = https://github.com/narrnika/factory_bridges.git
