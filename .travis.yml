@@ -1,0 +1,10 @@
+language: generic
+
+services:
+ - docker
+
+script:
+ - ./test.sh
+
+notifications:
+  email: false
