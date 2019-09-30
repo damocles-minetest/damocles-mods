@@ -115,3 +115,36 @@
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
+[submodule "prefab"]
+	path = prefab
+	url = https://github.com/minetest-mods/prefab.git
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries.git
+[submodule "mymillwork"]
+	path = mymillwork
+	url = https://github.com/minetest-mods/mymillwork.git
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs.git
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://gitlab.com/VanessaE/signs_lib.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "coloredwood"]
+	path = coloredwood
+	url = https://gitlab.com/VanessaE/coloredwood.git
+[submodule "street_signs"]
+	path = street_signs
+	url = https://gitlab.com/VanessaE/street_signs.git
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack.git
+[submodule "font_botic"]
+	path = font_botic
+	url = https://github.com/pyrollo/font_botic.git
+[submodule "font_oldwizard"]
+	path = font_oldwizard
+	url = https://github.com/pyrollo/font_oldwizard.git
