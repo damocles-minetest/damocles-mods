@@ -154,3 +154,6 @@
 [submodule "damocles_custom"]
 	path = damocles_custom
 	url = https://github.com/damocles-minetest/damocles_custom.git
+[submodule "mesecons_stealthnode"]
+	path = mesecons_stealthnode
+	url = https://github.com/acmgit/mesecons_stealthnode.git
