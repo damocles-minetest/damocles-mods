@@ -151,3 +151,6 @@
 [submodule "factory_bridges"]
 	path = factory_bridges
 	url = https://github.com/narrnika/factory_bridges.git
+[submodule "damocles_custom"]
+	path = damocles_custom
+	url = https://github.com/damocles-minetest/damocles_custom.git
