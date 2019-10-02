@@ -157,3 +157,6 @@
 [submodule "mesecons_stealthnode"]
 	path = mesecons_stealthnode
 	url = https://github.com/acmgit/mesecons_stealthnode.git
+[submodule "mapserver_mod"]
+	path = mapserver_mod
+	url = https://github.com/minetest-tools/mapserver_mod.git
