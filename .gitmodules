@@ -160,3 +160,21 @@
 [submodule "mapserver_mod"]
 	path = mapserver_mod
 	url = https://github.com/minetest-tools/mapserver_mod.git
+[submodule "fancy_vend"]
+	path = fancy_vend
+	url = https://github.com/pandorabox-io/fancy_vend
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid
+[submodule "lavastuff"]
+	path = lavastuff
+	url = https://github.com/LoneWolfHT/lavastuff
+[submodule "more_chests"]
+	path = more_chests
+	url = https://github.com/minetest-mods/more_chests
+[submodule "pvp_areas"]
+	path = pvp_areas
+	url = https://github.com/everamzah/pvp_areas
