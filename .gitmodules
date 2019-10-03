@@ -202,3 +202,24 @@
 [submodule "geocache"]
 	path = geocache
 	url = https://github.com/pandorabox-io/geocache.git
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/shacknetisp/elevator.git
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "digistuff"]
+	path = digistuff
+	url = https://git.rudin.io/mirror/digistuff.git
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms.git
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://gitlab.com/VanessaE/led_marquee.git
+[submodule "throwing"]
+	path = throwing
+	url = https://github.com/minetest-mods/throwing.git
+[submodule "throwing_arrows"]
+	path = throwing_arrows
+	url = https://github.com/minetest-mods/throwing_arrows.git
