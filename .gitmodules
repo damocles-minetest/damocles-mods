@@ -223,3 +223,6 @@
 [submodule "pkarcs"]
 	path = pkarcs
 	url = https://github.com/TumeniNodes/pkarcs.git
+[submodule "auth_proxy_mod"]
+	path = auth_proxy_mod
+	url = https://github.com/thomasrudin-mt/auth_proxy_mod
