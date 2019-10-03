@@ -9,7 +9,7 @@
 	url = https://github.com/minetest-mods/framedglass.git
 [submodule "hidden_doors"]
 	path = hidden_doors
-	url = git@github.com:pandorabox-io/hidden_doors.git
+	url = https://github.com/pandorabox-io/hidden_doors.git
 [submodule "letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
