@@ -121,9 +121,6 @@
 [submodule "castle_tapestries"]
 	path = castle_tapestries
 	url = https://github.com/minetest-mods/castle_tapestries.git
-[submodule "mymillwork"]
-	path = mymillwork
-	url = https://github.com/minetest-mods/mymillwork.git
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://gitlab.com/VanessaE/basic_signs.git
