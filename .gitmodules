@@ -181,3 +181,6 @@
 [submodule "currency"]
 	path = currency
 	url = https://gitlab.com/VanessaE/currency.git
+[submodule "telemosaic"]
+	path = telemosaic
+	url = https://github.com/pandorabox-io/telemosaic.git
