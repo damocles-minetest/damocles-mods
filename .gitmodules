@@ -184,3 +184,6 @@
 [submodule "telemosaic"]
 	path = telemosaic
 	url = https://github.com/pandorabox-io/telemosaic.git
+[submodule "replacer"]
+	path = replacer
+	url = https://github.com/coil0/replacer.git
