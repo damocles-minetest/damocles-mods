@@ -187,3 +187,18 @@
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/coil0/replacer.git
+[submodule "mesecons_protected_button"]
+	path = mesecons_protected_button
+	url = https://github.com/pandorabox-io/mesecons_protected_button.git
+[submodule "mesecons_protected_switch"]
+	path = mesecons_protected_switch
+	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
+[submodule "protector"]
+	path = protector
+	url = https://notabug.org/tenplus1/protector.git
+[submodule "hangglider"]
+	path = hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider.git
+[submodule "geocache"]
+	path = geocache
+	url = https://github.com/pandorabox-io/geocache.git
