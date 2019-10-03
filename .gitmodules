@@ -220,3 +220,6 @@
 [submodule "throwing_arrows"]
 	path = throwing_arrows
 	url = https://github.com/minetest-mods/throwing_arrows.git
+[submodule "pkarcs"]
+	path = pkarcs
+	url = https://github.com/TumeniNodes/pkarcs.git
