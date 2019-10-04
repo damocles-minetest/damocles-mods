@@ -102,7 +102,7 @@
 	url = https://notabug.org/TenPlus1/mobs_sky.git
 [submodule "epic"]
 	path = epic
-	url = https://github.com/thomasrudin-mt/epic.git
+	url = https://github.com/damocles-minetest/epic.git
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
