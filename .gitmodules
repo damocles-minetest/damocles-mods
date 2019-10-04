@@ -226,3 +226,6 @@
 [submodule "auth_proxy_mod"]
 	path = auth_proxy_mod
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
+[submodule "epic_skybox"]
+	path = epic_skybox
+	url = https://github.com/damocles-minetest/epic_skybox.git
