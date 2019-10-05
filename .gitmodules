@@ -229,3 +229,6 @@
 [submodule "epic_skybox"]
 	path = epic_skybox
 	url = https://github.com/damocles-minetest/epic_skybox.git
+[submodule "slats"]
+	path = slats
+	url = https://github.com/v-rob/slats
