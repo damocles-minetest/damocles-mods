@@ -232,3 +232,9 @@
 [submodule "slats"]
 	path = slats
 	url = https://github.com/v-rob/slats
+[submodule "minetest_hudbars"]
+	path = minetest_hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "minetest_hbarmor"]
+	path = minetest_hbarmor
+	url = https://repo.or.cz/minetest_hbarmor.git
