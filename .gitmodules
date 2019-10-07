@@ -238,3 +238,6 @@
 [submodule "minetest_hbarmor"]
 	path = minetest_hbarmor
 	url = https://repo.or.cz/minetest_hbarmor.git
+[submodule "ccompass"]
+	path = ccompass
+	url = https://github.com/minetest-mods/ccompass.git
