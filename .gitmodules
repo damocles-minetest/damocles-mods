@@ -232,3 +232,18 @@
 [submodule "slats"]
 	path = slats
 	url = https://github.com/v-rob/slats
+[submodule "minetest_hudbars"]
+	path = minetest_hudbars
+	url = https://repo.or.cz/minetest_hudbars.git
+[submodule "minetest_hbarmor"]
+	path = minetest_hbarmor
+	url = https://repo.or.cz/minetest_hbarmor.git
+[submodule "ccompass"]
+	path = ccompass
+	url = https://github.com/minetest-mods/ccompass.git
+[submodule "xp_redo"]
+	path = xp_redo
+	url = https://github.com/thomasrudin-mt/xp_redo.git
+[submodule "xp_redo_ranks_ores"]
+	path = xp_redo_ranks_ores
+	url = https://github.com/thomasrudin-mt/xp_redo_ranks_ores.git
