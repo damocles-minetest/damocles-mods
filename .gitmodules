@@ -250,3 +250,6 @@
 [submodule "epic_weather"]
 	path = epic_weather
 	url = https://github.com/damocles-minetest/epic_weather.git
+[submodule "food_effects"]
+	path = food_effects
+	url = https://github.com/damocles-minetest/food_effects.git
