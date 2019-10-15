@@ -256,3 +256,6 @@
 [submodule "firearms"]
 	path = firearms
 	url = https://github.com/damocles-minetest/mt-firearms
+[submodule "xspikes"]
+	path = xspikes
+	url = https://github.com/damocles-minetest/xspikes
