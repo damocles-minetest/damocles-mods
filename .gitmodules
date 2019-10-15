@@ -253,3 +253,6 @@
 [submodule "food_effects"]
 	path = food_effects
 	url = https://github.com/damocles-minetest/food_effects.git
+[submodule "firearms"]
+	path = firearms
+	url = https://github.com/damocles-minetest/mt-firearms
