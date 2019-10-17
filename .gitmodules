@@ -262,3 +262,6 @@
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal.git
+[submodule "guns"]
+	path = guns
+	url = https://github.com/damocles-minetest/guns
