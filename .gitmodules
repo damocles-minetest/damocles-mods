@@ -244,9 +244,6 @@
 [submodule "xp_redo"]
 	path = xp_redo
 	url = https://github.com/thomasrudin-mt/xp_redo.git
-[submodule "xp_redo_ranks_ores"]
-	path = xp_redo_ranks_ores
-	url = https://github.com/thomasrudin-mt/xp_redo_ranks_ores.git
 [submodule "epic_weather"]
 	path = epic_weather
 	url = https://github.com/damocles-minetest/epic_weather.git
