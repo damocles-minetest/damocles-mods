@@ -265,3 +265,6 @@
 [submodule "xp_redo_ranks_tools"]
 	path = xp_redo_ranks_tools
 	url = https://github.com/damocles-minetest/xp_redo_ranks_tools.git
+[submodule "mail"]
+	path = mail
+	url = https://github.com/thomasrudin-mt/mail.git
