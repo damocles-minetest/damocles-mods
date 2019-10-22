@@ -277,3 +277,6 @@
 [submodule "soundblock_damocles"]
 	path = soundblock_damocles
 	url = https://github.com/damocles-minetest/soundblock_damocles.git
+[submodule "server_news"]
+	path = server_news
+	url = https://github.com/Ezhh/server_news
