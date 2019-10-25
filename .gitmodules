@@ -280,3 +280,6 @@
 [submodule "server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
