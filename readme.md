@@ -11,4 +11,5 @@ bridger_enable_trusses = true
 telemosaic_right_click_teleport = true
 bones_mode = drop
 ccompass_recalibrate = false
+scifi_nodes.doors_open_with_mesecon_only = true
 ```
