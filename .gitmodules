@@ -289,3 +289,6 @@
 [submodule "snowsong"]
 	path = snowsong
 	url = https://github.com/tacotexmex/snowsong.git
+[submodule "fake_forcefield"]
+	path = fake_forcefield
+	url = https://github.com/damocles-minetest/fake_forcefield.git
