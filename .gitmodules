@@ -292,3 +292,6 @@
 [submodule "fake_forcefield"]
 	path = fake_forcefield
 	url = https://github.com/damocles-minetest/fake_forcefield.git
+[submodule "atm"]
+	path = atm
+	url = https://github.com/pandorabox-io/atm.git
