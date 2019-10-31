@@ -301,3 +301,6 @@
 [submodule "mese_restriction"]
 	path = mese_restriction
 	url = https://github.com/Ezhh/mese_restriction.git
+[submodule "glass_stained"]
+	path = glass_stained
+	url = https://github.com/v-rob/glass_stained.git
