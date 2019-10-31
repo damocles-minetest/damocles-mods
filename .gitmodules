@@ -298,3 +298,6 @@
 [submodule "lightning"]
 	path = lightning
 	url = https://github.com/minetest-mods/lightning.git
+[submodule "mese_restriction"]
+	path = mese_restriction
+	url = https://github.com/Ezhh/mese_restriction.git
