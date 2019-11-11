@@ -307,3 +307,6 @@
 [submodule "particlefountain"]
 	path = particlefountain
 	url = https://github.com/damocles-minetest/particlefountain.git
+[submodule "big_wifi_chest"]
+	path = big_wifi_chest
+	url = https://github.com/damocles-minetest/big_wifi_chest.git
