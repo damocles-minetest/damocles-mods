@@ -294,7 +294,7 @@
 	url = https://github.com/damocles-minetest/fake_forcefield.git
 [submodule "atm"]
 	path = atm
-	url = https://github.com/pandorabox-io/atm.git
+	url = https://github.com/h-v-smacker/atm.git
 [submodule "lightning"]
 	path = lightning
 	url = https://github.com/minetest-mods/lightning.git
