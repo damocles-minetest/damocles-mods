@@ -313,3 +313,6 @@
 [submodule "symmetool"]
 	path = symmetool
 	url = https://github.com/nyje/symmetool
+[submodule "horror"]
+	path = horror
+	url = https://github.com/damocles-minetest/horror.git
