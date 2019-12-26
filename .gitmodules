@@ -316,3 +316,6 @@
 [submodule "horror"]
 	path = horror
 	url = https://github.com/damocles-minetest/horror.git
+[submodule "priv_protector"]
+	path = priv_protector
+	url = https://github.com/pandorabox-io/priv_protector.git
