@@ -316,3 +316,6 @@
 [submodule "priv_protector"]
 	path = priv_protector
 	url = https://github.com/pandorabox-io/priv_protector.git
+[submodule "epic_discord"]
+	path = epic_discord
+	url = https://github.com/damocles-minetest/epic_discord
