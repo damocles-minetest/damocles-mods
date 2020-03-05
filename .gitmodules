@@ -319,3 +319,6 @@
 [submodule "epic_discord"]
 	path = epic_discord
 	url = https://github.com/damocles-minetest/epic_discord
+[submodule "epic_score"]
+	path = epic_score
+	url = https://github.com/damocles-minetest/epic_score.git
