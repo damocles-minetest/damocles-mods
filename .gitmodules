@@ -241,9 +241,6 @@
 [submodule "ccompass"]
 	path = ccompass
 	url = https://github.com/minetest-mods/ccompass.git
-[submodule "xp_redo"]
-	path = xp_redo
-	url = https://github.com/thomasrudin-mt/xp_redo.git
 [submodule "epic_weather"]
 	path = epic_weather
 	url = https://github.com/damocles-minetest/epic_weather.git
@@ -262,9 +259,6 @@
 [submodule "guns"]
 	path = guns
 	url = https://github.com/damocles-minetest/guns
-[submodule "xp_redo_ranks_tools"]
-	path = xp_redo_ranks_tools
-	url = https://github.com/damocles-minetest/xp_redo_ranks_tools.git
 [submodule "beerchat"]
 	path = beerchat
 	url = https://github.com/pandorabox-io/beerchat.git
