@@ -316,3 +316,6 @@
 [submodule "epic_score"]
 	path = epic_score
 	url = https://github.com/damocles-minetest/epic_score.git
+[submodule "cannons"]
+	path = cannons
+	url = https://github.com/mt-mods/cannons.git
