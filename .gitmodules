@@ -162,7 +162,7 @@
 	url = https://github.com/pandorabox-io/fancy_vend
 [submodule "3d_armor"]
 	path = 3d_armor
-	url = https://github.com/stujones11/minetest-3d_armor
+	url = https://github.com/mt-mods/3d_armor
 [submodule "armor_monoid"]
 	path = armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid
