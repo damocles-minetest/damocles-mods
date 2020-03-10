@@ -109,9 +109,6 @@
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/damocles-minetest/player_monoids.git
-[submodule "dmobs"]
-	path = dmobs
-	url = https://github.com/D00Med/dmobs.git
 [submodule "jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
