@@ -60,7 +60,7 @@
 	url = https://gitlab.com/VanessaE/unifieddyes.git
 [submodule "invsaw"]
 	path = invsaw
-	url = https://git.rudin.io/mirror/invsaw.git
+	url = https://github.com/minetest-mirrors/invsaw.git
 [submodule "exschem"]
 	path = exschem
 	url = https://github.com/TalkLounge/exschem.git
@@ -204,7 +204,7 @@
 	url = https://github.com/minetest-mods/digilines.git
 [submodule "digistuff"]
 	path = digistuff
-	url = https://git.rudin.io/mirror/digistuff.git
+	url = https://github.com/minetest-mirrors/digistuff.git
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
