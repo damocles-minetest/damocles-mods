@@ -66,13 +66,13 @@
 	url = https://github.com/TalkLounge/exschem.git
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://notabug.org/TenPlus1/bakedclay.git
+	url = https://github.com/minetest-mirrors/bakedclay.git
 [submodule "farming"]
 	path = farming
-	url = https://notabug.org/TenPlus1/farming.git
+	url = https://github.com/minetest-mirrors/farming.git
 [submodule "wine"]
 	path = wine
-	url = https://notabug.org/TenPlus1/wine.git
+	url = https://github.com/minetest-mirrors/wine.git
 [submodule "item_drop"]
 	path = item_drop
 	url = https://github.com/minetest-mods/item_drop.git
@@ -81,7 +81,7 @@
 	url = https://github.com/runsy/cool_trees.git
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://notabug.org/TenPlus1/bonemeal.git
+	url = https://github.com/minetest-mirrors/bonemeal.git
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://notabug.org/TenPlus1/mobs_redo.git
