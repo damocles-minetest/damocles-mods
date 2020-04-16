@@ -313,6 +313,3 @@
 [submodule "epic_score"]
 	path = epic_score
 	url = https://github.com/damocles-minetest/epic_score.git
-[submodule "blockexchange"]
-	path = blockexchange
-	url = https://github.com/blockexchange/blockexchange
