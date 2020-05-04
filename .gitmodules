@@ -316,3 +316,6 @@
 [submodule "blockexchange"]
 	path = blockexchange
 	url = https://github.com/blockexchange/blockexchange
+[submodule "detached_chest"]
+	path = detached_chest
+	url = https://github.com/damocles-minetest/detached_chest.git
