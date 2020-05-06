@@ -319,3 +319,9 @@
 [submodule "detached_chest"]
 	path = detached_chest
 	url = https://github.com/damocles-minetest/detached_chest.git
+[submodule "hyperloop"]
+	path = hyperloop
+	url = https://github.com/joe7575/Minetest-Hyperloop
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2.git
