@@ -114,7 +114,7 @@
 	url = https://github.com/minetest-mods/jumping.git
 [submodule "prefab"]
 	path = prefab
-	url = https://github.com/minetest-mods/prefab.git
+	url = https://github.com/mt-mods/prefab.git
 [submodule "castle_tapestries"]
 	path = castle_tapestries
 	url = https://github.com/minetest-mods/castle_tapestries.git
