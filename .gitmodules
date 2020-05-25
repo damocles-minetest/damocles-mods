@@ -319,3 +319,6 @@
 [submodule "detached_chest"]
 	path = detached_chest
 	url = https://github.com/damocles-minetest/detached_chest.git
+[submodule "area_effects"]
+	path = area_effects
+	url = https://github.com/damocles-minetest/area_effects.git
