@@ -322,3 +322,9 @@
 [submodule "area_effects"]
 	path = area_effects
 	url = https://github.com/damocles-minetest/area_effects.git
+[submodule "digibuilder"]
+	path = digibuilder
+	url = https://github.com/BuckarooBanzay/digibuilder.git
+[submodule "digiline_global_memory"]
+	path = digiline_global_memory
+	url = https://github.com/BuckarooBanzay/digiline_global_memory.git
