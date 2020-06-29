@@ -328,3 +328,15 @@
 [submodule "digiline_global_memory"]
 	path = digiline_global_memory
 	url = https://github.com/BuckarooBanzay/digiline_global_memory.git
+[submodule "monitoring_digilines"]
+	path = monitoring_digilines
+	url = https://github.com/minetest-monitoring/monitoring_digilines.git
+[submodule "monitoring_mesecons"]
+	path = monitoring_mesecons
+	url = https://github.com/minetest-monitoring/monitoring_mesecons.git
+[submodule "monitoring_protection"]
+	path = monitoring_protection
+	url = https://github.com/minetest-monitoring/monitoring_protection.git
+[submodule "monitoring_replacer"]
+	path = monitoring_replacer
+	url = https://github.com/minetest-monitoring/monitoring_replacer.git
