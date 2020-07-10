@@ -340,3 +340,6 @@
 [submodule "monitoring_replacer"]
 	path = monitoring_replacer
 	url = https://github.com/minetest-monitoring/monitoring_replacer.git
+[submodule "freetouch"]
+	path = freetouch
+	url = https://github.com/damocles-minetest/freetouch.git
