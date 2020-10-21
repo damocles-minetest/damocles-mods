@@ -346,3 +346,6 @@
 [submodule "build_mirror"]
 	path = build_mirror
 	url = https://github.com/damocles-minetest/build_mirror.git
+[submodule "modgen"]
+	path = modgen
+	url = https://github.com/BuckarooBanzay/modgen
