@@ -31,9 +31,6 @@
 [submodule "scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes.git
-[submodule "shell"]
-	path = shell
-	url = https://github.com/thomasrudin-mt/shell.git
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
