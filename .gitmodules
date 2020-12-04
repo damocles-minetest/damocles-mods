@@ -349,3 +349,6 @@
 [submodule "modgen"]
 	path = modgen
 	url = https://github.com/BuckarooBanzay/modgen
+[submodule "holoemitter"]
+	path = holoemitter
+	url = https://github.com/BuckarooBanzay/holoemitter
