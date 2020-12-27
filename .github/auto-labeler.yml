@@ -1,0 +1,7 @@
+enable:
+  prs: true
+
+labels:
+  'automerge':
+    include:
+      - '\bbump blockexchange\b'
