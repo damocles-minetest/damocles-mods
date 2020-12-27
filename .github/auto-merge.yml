@@ -1,0 +1,3 @@
+- match:
+    dependency_name: blockexchange
+    update_type: "all"
