@@ -5,9 +5,7 @@ requiredLabels:
  - dependencies
 
 rules:
-  - requiredTitleRegex:
-     - '\bblockexchange\b'
-     - '\b3d_armor\b'
+  - requiredTitleRegex: '\bblockexchange|3d_armor\b'
 
 mergeMethod: rebase
 reportStatus: true
