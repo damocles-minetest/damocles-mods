@@ -1,6 +1,6 @@
 name: integration-test
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
@@ -8,8 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2.3.4
-    - uses: textbook/git-checkout-submodule-action@2.1.1
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        submodules: recursive
 
     - name: test
       run: ./test.sh
