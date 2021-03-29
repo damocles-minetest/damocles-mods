@@ -355,3 +355,6 @@
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://gitlab.com/VanessaE/dreambuilder_hotbar.git
+[submodule "ban_blocks"]
+	path = ban_blocks
+	url = https://github.com/damocles-minetest/ban_blocks
