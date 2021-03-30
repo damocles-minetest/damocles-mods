@@ -358,3 +358,6 @@
 [submodule "ban_blocks"]
 	path = ban_blocks
 	url = https://github.com/damocles-minetest/ban_blocks
+[submodule "worledit_additions"]
+	path = worledit_additions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions
